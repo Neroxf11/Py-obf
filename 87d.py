@@ -118,7 +118,7 @@ def startMenu ():#line:120
         print (f'[{Fore.BLUE}->{Fore.RESET}] Enter the Token',end ='');O0O00OOO0O0OOOOO0 =input ('  :  ')#line:136
         tokenInfo (O0O00OOO0O0OOOOO0 )#line:137
     elif OOOOOOOOOO0000000 =='4':#line:139
-        print (f'[{Fore.BLUE}->{Fore.RESET}] No,Dont work contact 8745 on discord !',end ='');O0O00OOO0O0OOOOO0 =input ('  :  ')#line:140
+        print (f'[{Fore.BLUE}->{Fore.RESET}] No,Dont work contact O0O00OOO0O0OOOOO0 on discord !',end ='');O0O00OOO0O0OOOOO0 =input ('  :  ')#line:140
         tokenLogin (O0O00OOO0O0OOOOO0 )#line:141
     elif OOOOOOOOOO0000000 .isdigit ()==False :#line:143
         clear ()#line:144
